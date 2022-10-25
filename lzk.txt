@@ -4,5 +4,9 @@ hello01 02!】
 i am hot-master
 i am hot-master
 i am hot-master
+<<<<<<< HEAD
 w我是是新添加的新woshi 1
+=======
+zlk
+>>>>>>> hot-branch
 
